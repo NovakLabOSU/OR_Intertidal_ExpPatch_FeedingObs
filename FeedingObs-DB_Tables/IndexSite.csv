@@ -1,0 +1,12 @@
+"SiteID","Site","CoastID","RegionID","Latitude","Abb","Longitude","SiteDescription","FocusSite","s_ColLineage","s_Generation","s_GUID","s_Lineage"
+100,"Yachats_Natural_Bridge",8,12,,"YNB",,,TRUE,,12,,
+101,"Yachats_Barnacle_Rock",8,12,,"YBR",,,TRUE,,12,,
+105461248,"Cape Meares",8,12,,"CM",,,FALSE,,12,,
+-489165235,"Fogarty Creek",8,12,,"FC",,,FALSE,,12,,
+-1303506550,"Boiler Bay",8,12,,"BB",,,FALSE,,12,,
+-1409609405,"Seal Rock",8,12,,"SR",,,FALSE,,12,,
+241449672,"Strawberry Hill",8,12,,"SH",,,FALSE,,12,,
+1584268585,"Gull Haven",8,12,,"GH",,,FALSE,,12,,
+-1355170250,"Bob Creek",8,12,,"BC",,,FALSE,,12,,
+-1383402625,"Cape Arago",8,12,,"CA",,,FALSE,,12,,
+-51321004,"Cape Blanco",8,12,,"CB",,,FALSE,,12,,
